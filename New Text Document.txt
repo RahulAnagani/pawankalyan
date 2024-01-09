@@ -1,0 +1,103 @@
+<section class="people05 cid-u0RkhcTrjb" id="testimonials-5-u0RkhcTrjb">
+	<div class="container">
+		<div class="row mb-5 justify-content-center">
+			<div class="col-12 mb-0 content-head">
+				<h3 class="mbr-section-title mbr-fonts-style align-center mb-0 display-2">
+					<strong>Rave</strong>
+				</h3>
+			</div>
+		</div>
+		<div class="row">
+			<div class="item features-without-image col-12 col-md-6 col-lg-4 active">
+				<div class="item-wrapper">
+					<div class="card-box align-left">
+						<p class="card-text mbr-fonts-style display-7">
+							Vibra has transformed the way I approach creativity. It&#x27;s a game-changer for anyone who wants to make an impact.
+						</p>
+						<div class="img-wrapper mt-4 mb-3">
+							<img src="assets/images/photo-1489980721706-f487dab89c24.jpeg" data-slide-to="0" data-bs-slide-to="0">
+						</div>
+						<h5 class="card-title mbr-fonts-style display-7">
+							<strong>Maxwell Stone</strong>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="item features-without-image col-12 col-md-6 col-lg-4">
+				<div class="item-wrapper">
+					<div class="card-box align-left">
+						<p class="card-text mbr-fonts-style display-7">
+							I&#x27;ve never felt more inspired and supported in my creative journey. Vibra is a community like no other.
+						</p>
+						<div class="img-wrapper mt-4 mb-3">
+							<img src="assets/images/photo-1535704882196-765e5fc62a53.jpeg" data-slide-to="1" data-bs-slide-to="1">
+						</div>
+						<h5 class="card-title mbr-fonts-style display-7">
+							<strong>Luna Park</strong>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="item features-without-image col-12 col-md-6 col-lg-4">
+				<div class="item-wrapper">
+					<div class="card-box align-left">
+						<p class="card-text mbr-fonts-style display-7">
+							Vibra has given me the tools and confidence to explore new creative horizons. It&#x27;s a place where magic happens.
+						</p>
+						<div class="img-wrapper mt-4 mb-3">
+							<img src="assets/images/photo-1629114112651-a8c8c27fb851.jpeg" data-slide-to="2" data-bs-slide-to="2">
+						</div>
+						<h5 class="card-title mbr-fonts-style display-7">
+							<strong>Ethan Reed</strong>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="item features-without-image col-12 col-md-6 col-lg-4">
+				<div class="item-wrapper">
+					<div class="card-box align-left">
+						<p class="card-text mbr-fonts-style display-7">
+							The energy and passion at Vibra are contagious. It&#x27;s a hub of innovation and creativity that fuels my imagination.
+						</p>
+						<div class="img-wrapper mt-4 mb-3">
+							<img src="assets/images/photo-1513207565459-d7f36bfa1222.jpeg" data-slide-to="4" data-bs-slide-to="5">
+						</div>
+						<h5 class="card-title mbr-fonts-style display-7">
+							<strong>Aria Knight</strong>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="item features-without-image col-12 col-md-6 col-lg-4">
+				<div class="item-wrapper">
+					<div class="card-box align-left">
+						<p class="card-text mbr-fonts-style display-7">
+							Vibra is a playground for creativity. It&#x27;s where I go to let my ideas run wild and see them come to life.
+						</p>
+						<div class="img-wrapper mt-4 mb-3">
+							<img src="assets/images/photo-1492288991661-058aa541ff43.jpeg" data-slide-to="6" data-bs-slide-to="6">
+						</div>
+						<h5 class="card-title mbr-fonts-style display-7">
+							<strong>Oliver Fox</strong>
+						</h5>
+					</div>
+				</div>
+			</div>
+			<div class="item features-without-image col-12 col-md-6 col-lg-4">
+				<div class="item-wrapper">
+					<div class="card-box align-left">
+						<p class="card-text mbr-fonts-style display-7">
+							I&#x27;ve found my creative home at Vibra. It&#x27;s a place where I can be myself and explore endless possibilities.
+						</p>
+						<div class="img-wrapper mt-4 mb-3">
+							<img src="assets/images/photo-1564972379941-fde999e14945.jpeg" data-slide-to="7" data-bs-slide-to="7">
+						</div>
+						<h5 class="card-title mbr-fonts-style display-7">
+							<strong>Ava Rose</strong>
+						</h5>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
