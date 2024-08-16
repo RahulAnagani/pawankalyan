@@ -28,7 +28,7 @@
 </head>
 <body>
 <!--meeku em pani andi ikkada-->
-
+<div id="home"></div>
     <style>
 .cid-tXhhkVcCeU  {
   z-index: 1000;
@@ -618,14 +618,14 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav nav-dropdown" data-app-modern-menu="true">
           <li class="nav-item">
-            <a class="nav-link link text-black display-4" href="https://instagram.com/__rahul_anagani?igshid=M2RkZGJiMzhjOQ">Home</a>
+            <a class="nav-link link text-black display-4" href="#home">Home</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link text-black display-4" href="https://instagram.com/__rahul_anagani?igshid=M2RkZGJiMzhjOQ"
+            <a class="nav-link link text-black display-4" href="#gallery-5-tXhhkVdCOI"
               aria-expanded="false">Gallery</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link link text-black display-4" href="cse.html">About</a>
+            <a class="nav-link link text-black display-4" href="#about-me-9-tXhhkVdW0Q">About</a>
           </li>
         </ul>
         <div class="navbar-buttons mbr-section-btn">
@@ -744,6 +744,26 @@
   color: #000000;
 }
 </style>
+<script>document.addEventListener("DOMContentLoaded", function() {
+    const container = document.getElementById('hearts-container');
+
+    function createHeart() {
+        const heart = document.createElement('div');
+        heart.className = 'heart';
+        heart.style.left = Math.random() * window.innerWidth + 'px';
+        heart.style.animation = `fall ${Math.random() * 5 + 3}s linear forwards`;
+        container.appendChild(heart);
+
+        // Remove the heart from the DOM after animation ends
+        heart.addEventListener('animationend', () => {
+            container.removeChild(heart);
+        });
+    }
+
+    // Create hearts periodically
+    setInterval(createHeart, 300);
+});
+</script>
 <section data-bs-version="5.1" class="article9 cid-tXhhkVdW0Q" id="about-me-9-tXhhkVdW0Q">
   <div class="container">
     <div class="row justify-content-center">
@@ -772,8 +792,8 @@
           </div>
           </div>
           <div class="image-wrapper d-flex justify-content-center mt-3">
-            <img src="assets/images/Snapinsta.app_291783164_443655750619027_845118940910234875_n_1080.jpg" style="max-width: 100%; max-height: 100%; width: auto; height: auto;">
-          </div>>
+            <img src="assets/images/Snapinsta.app_291783164_443655750619027_845118940910234875_n_1080.jpg" style="max-width: 70%; max-height: 70%; width: auto; height: auto;">
+          </div>
           </div>
         </div>
       </div>
